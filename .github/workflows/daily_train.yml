@@ -2,7 +2,7 @@ name: Daily Rough fOU Training
 
 on:
   schedule:
-    - cron: '0 03 * * *'
+    - cron: '0 04 * * *'
   workflow_dispatch:
 
 jobs:
